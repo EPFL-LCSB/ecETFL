@@ -1,4 +1,5 @@
 # ecETFL
+This is the code for [Oftadeh, O., and Hatzimanikatis, V., "Genome-scale models of metabolism and expression predict the metabolic burden of recombinant protein expression." Metabolic Engineering 84 (2024)](https://doi.org/10.1016/j.ymben.2024.06.005).
 
 You will need [pyTFA](https://github.com/EPFL-LCSB/pytfa) and [ETFL](https://github.com/EPFL-LCSB/etfl) to run it. We recommend using commercial solvers such as CPLEX or Gurobi to run these problems.
 
